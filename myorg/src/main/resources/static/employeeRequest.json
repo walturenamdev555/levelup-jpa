@@ -1,0 +1,21 @@
+{
+  "firstName": "Namdev",
+  "lastName": "Walture",
+  "salary": 50000.0,
+  "email": "walturenamdev@gmail.com",
+  "address": {
+    "houseNumber": "A/112",
+    "city": "Sambhajinagar",
+    "pinCode": 223344
+  },
+  "roles": [
+    {
+      "roleName": "Software Engineer",
+      "active": true
+    },
+    {
+      "roleName": "Team Lead",
+      "active": true
+    }
+  ]
+}
